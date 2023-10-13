@@ -8,7 +8,7 @@ def hello(name : str) -> None:
     print(f'Hello, {name}!')
 
 def goodbye(name : str) -> None:
-    """ This function will take a name and print Hello to the name.
+    """ This function will take a name and print Goodbye to the name.
     
     Args:
         name (str): The name appeared in the output.
